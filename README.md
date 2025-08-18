@@ -13,7 +13,7 @@
 - 🌱 Currently learning: **MERN Stack | DevOps | Cloud**
 - 🛠️ Working on: **Full-stack projects using React, Node, MongoDB**
 - 💬 Ask me about: **JavaScript, React, Node.js, Git**
-- 📫 Reach me at: `aswinnidesh@example.com`
+- 📫 Reach me at: `aswinnidesh@gmail.com`
 - 🎯 2025 Goal: **Contribute to impactful projects & grow as a developer**
 
 ---
