@@ -9,7 +9,7 @@
 <!-- Animated GIF -->
 <img align="right" height="170" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### 🧠 About Me
+### <h2 align = "center" >🧠 About Me</h2>
 - 🌱 Currently learning: **MERN Stack | DevOps | Cloud**
 - 🛠️ Working on: **Full-stack projects using React, Node, MongoDB**
 - 💬 Ask me about: **JavaScript, React, Node.js, Git**
