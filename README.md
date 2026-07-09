@@ -27,7 +27,7 @@
 ---
 
 ### <h2 align = "center" >🧰 Tech Stack</h2>
-<div align="left">
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
