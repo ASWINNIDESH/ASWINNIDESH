@@ -19,9 +19,7 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASWINNIDESH&show_icons=true&include_all_commits=true&count_private=true&theme=radical&border_radius=10&hide_border=false" height="170" />
-  
+<div align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ASWINNIDESH&layout=compact&langs_count=6&theme=radical&border_radius=10&hide_border=false" height="170" />
 
   <img src="https://streak-stats.demolab.com?user=ASWINNIDESH&theme=radical&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="170" />
@@ -31,7 +29,10 @@
 
 ### 🧰 Tech Stack
 <div align="left">
-  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" />
@@ -74,7 +75,3 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ASWINNIDESH&theme=radical&no-frame=true&row=1&margin-w=10" />
-</p>
