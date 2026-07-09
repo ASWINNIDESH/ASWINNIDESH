@@ -9,13 +9,14 @@
 <!-- Animated GIF -->
 <img align="right" height="170" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### <h2 align = "center" >🧠 About Me
-- 🌱 Currently learning: **MERN Stack | DevOps | Cloud**
-- 🛠️ Working on: **Full-stack projects using React, Node, MongoDB**
-- 💬 Ask me about: **JavaScript, React, Node.js, Git**
-- 📫 Reach me at: `aswinnidesh@gmail.com`
-- 🎯 2025 Goal: **Contribute to impactful projects & grow as a developer**
-</h2>
+### <h2 align = "center" >🧠 About Me</h2>
+<p align = "center".
+  - 🌱 Currently learning: **MERN Stack | DevOps | Cloud**
+ - 🛠️ Working on: **Full-stack projects using React, Node, MongoDB**
+ - 💬 Ask me about: **JavaScript, React, Node.js, Git**
+ - 📫 Reach me at: `aswinnidesh@gmail.com`
+ - 🎯 2025 Goal: **Contribute to impactful projects & grow as a developer**
+  </p>
 ---
 
 ### <h2 align = "center" >📊 GitHub Stats</h2>
