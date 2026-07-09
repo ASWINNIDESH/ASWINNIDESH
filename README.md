@@ -11,10 +11,10 @@
 
 ### <h2 align = "center" >🧠 About Me</h2>
 - 🌱 Currently learning: **MERN Stack | DevOps | Cloud**
-- 🛠️ Working on: **Full-stack projects using React, Node, MongoDB**
-- 💬 Ask me about: **JavaScript, React, Node.js, Git**
+- 🛠️ Working on: **Machine Learing , Web Designing  **
+- 💬 Ask me about: **JavaScript, Python, Node.js, CSS, HTML, MONGO DB**
 - 📫 Reach me at: `aswinnidesh@gmail.com`
-- 🎯 2025 Goal: **Contribute to impactful projects & grow as a developer**
+- 🎯 2026 Goal: **Contribute to impactful projects & grow as a developer**
 
 ---
 
