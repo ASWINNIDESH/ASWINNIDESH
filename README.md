@@ -20,7 +20,6 @@
 
 ### 📊 GitHub Stats
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ASWINNIDESH&layout=compact&langs_count=6&theme=radical&border_radius=10&hide_border=false" height="170" />
 
   <img src="https://streak-stats.demolab.com?user=ASWINNIDESH&theme=radical&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="170" />
 </div>
@@ -35,8 +34,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
@@ -49,13 +46,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" height="30" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
+  
 </div>
 
 ---
