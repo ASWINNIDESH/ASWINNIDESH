@@ -18,7 +18,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### <h2 align = "center" >📊 GitHub Stats</h2>
 <div align="center">  
 
   <img src="https://streak-stats.demolab.com?user=ASWINNIDESH&theme=radical&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="170" />
@@ -26,10 +26,10 @@
 
 ---
 
-### 🧰 Tech Stack
+### <h2 align = "center" >🧰 Tech Stack</h2>
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
@@ -55,7 +55,7 @@
 
 ---
 
-### 📬 Connect with Me
+### <h2 align = "center" >📬 Connect with Me</h2>
 <div align="left">
   <a href="https://www.instagram.com/mr_.optimus_46?igsh=Nmc2aWRwY2piejQ0&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
