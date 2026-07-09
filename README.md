@@ -11,7 +11,7 @@
 
 ### <h2 align = "center" >🧠 About Me</h2>
 - 🌱 Currently learning: **MERN Stack | DevOps | Cloud**
-- 🛠️ Working on: **Machine Learing , Web Designing  **
+- 🛠️ Working on: **Machine Learing , Web Designing**
 - 💬 Ask me about: **JavaScript, Python, Node.js, CSS, HTML, MONGO DB**
 - 📫 Reach me at: `aswinnidesh@gmail.com`
 - 🎯 2026 Goal: **Contribute to impactful projects & grow as a developer**
